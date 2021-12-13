@@ -1,7 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-int main() {
-   cout << "Hello World!";
-    return 0;
+/*Code By Jigyashu Suraj*/
+
+int main(){
+
+  return 0;
 }
